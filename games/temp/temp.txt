@@ -1,0 +1,12 @@
+Папка Games//src создана
+Папка Games//res создана
+Папка Games//savegames создана
+Папка Games//temp создана
+Папка Games//src//main создана
+Папка Games//src//test создана
+Файл Games//src//main//Main.java создан
+Файл Games//src//main//Utils.java создан
+Папка Games//res//drawables создана
+Папка Games//res//vectors создана
+Папка Games//res//icons создана
+Файл Games//temp//temp.txt создан
